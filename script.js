@@ -345,6 +345,8 @@ function main() {
             ball.position.z +=14;  
         }
         if(x == 9 && z == 9){
+            const music = new Audio('congrats.mp3');
+            music.play();
             Swal.fire({
                 text: "Congratulation! You've completed this level!",
                 icon: "success",
