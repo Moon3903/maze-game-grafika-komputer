@@ -1,4 +1,5 @@
 # maze-game-grafika-komputer
+Membuat maze game sederhana menggunakan three.js
 ## oleh 
 - Aimar Wibowo 05111940000034
 - Erki Kadhafi Rosyid 05111940000050
